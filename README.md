@@ -19,6 +19,7 @@ The legacy styling solution of MUI: https://mui.com/system/styles/basics/
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white"/>
 </p>
 
 원하는 프로젝트 폴더에 `Next.js TypeScript` 프로젝트를 생성
