@@ -15,9 +15,7 @@ The legacy styling solution of MUI: https://mui.com/system/styles/basics/
 ## Getting Started
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js
--000000?style=flat-square&logo=Next.js
-&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/>
